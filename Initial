@@ -1,0 +1,138 @@
+<html>
+	<head>
+		<title>Profile</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Rosalba Fuentes</a></h1>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">Portfoilio</a></li>
+						<li><a href="#two">Python</a></li>
+						<li><a href="#three">IA</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="center">
+									<img src="images/picture2.jpg" alt="" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<h2>Information</h2>
+										<p>Job website.</p>
+									</header>
+									<p>.</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>Stack</h3>
+									<p>Bootcamp Data Driven Stack</p>
+									<ul class="feature-icons">
+										<li class="icon solid fa-code">Statistics</li>
+										<li class="icon solid fa-cubes">Data Models</li>
+										<li class="icon solid fa-book">Graphs</li>
+										<li class="icon solid fa-coffee">Teams</li>
+										<li class="icon solid fa-bolt">EDA</li>
+										<li class=" icon solid fa-users" Data Visualization</li>
+									</ul>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Additional Information</h3>
+									<p>.</p>
+									<div class="features">
+										<article>
+											<a href="#" class="image"><img src="images/IOT.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Publications</h4>
+												<p>.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/Developer2.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Agile strategies</h4>
+												<p>Proyects Launch</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Contact</h3>
+									<p>Email</p>
+									<form method="post" action="#">
+										<div class="row gtr-uniform">
+											<div class="col-6 col-12-small"><input type="text" name="name" id="name" placeholder="Nombre" /></div>
+											<div class="col-6 col-12-small"><input type="email" name="email" id="email" placeholder="Email" /></div>
+											<div class="col-12"><input type="text" name="subject" id="subject" placeholder="Asunto" /></div>
+											<div class="col-12"><textarea name="message" id="message" placeholder="Mensaje" rows="6"></textarea></div>
+											<div class="col-12">
+												<ul class="actions">
+													<li><input type="Send" class="primary" value="Send message" /></li>
+													<li><input type="clean format" value="fill out format again" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>school purposes</li>
+								<li>https://github.com/Rosalbafs</li>
+								<li>phrase</li>
+								<li>rosemexico@gmail.com</li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
